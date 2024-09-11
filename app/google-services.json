@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "437857795551",
+    "project_id": "footwear-app-8f76a",
+    "storage_bucket": "footwear-app-8f76a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437857795551:android:9f110a3e5bcc4de150d86a",
+        "android_client_info": {
+          "package_name": "com.venessa.footwearapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUBt8Fe4KFhZ9JeLeGgGxqDR3HnR0VBn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
